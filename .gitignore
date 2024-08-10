@@ -6,7 +6,6 @@
 /build
 *.so
 *.o
-deps/
 tests/figures
 .pdm-python
 .venv
