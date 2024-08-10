@@ -8,3 +8,5 @@
 *.o
 deps/
 tests/figures
+.pdm-python
+.venv
