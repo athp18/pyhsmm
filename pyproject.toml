@@ -20,7 +20,7 @@ dependencies = [
     "matplotlib",
     "nose",
     "numpy<2.0.0",
-    "pybasicbayes @ git+https://github.com/sneakers-the-rat/pybasicbayes.git@packaging",
+    "pybasicbayes @ git+https://github.com/athp18/pybasicbayes.git",
     "scipy",
     "six",
     "requests>=2.32.3",
